@@ -91,7 +91,7 @@ La construcción de un desarrollo científico ayuda a dar explicación a los fen
 
 ```{r echo=FALSE, fig.align='center', fig.cap='Método Científico', warning=FALSE}
 library(knitr)
-include_graphics("~/Dropbox/Magister_Estadística_Diplomado_DS/Diplomado_data_science/Notas_DS_2020/image/c1i1.png", dpi=500)
+include_graphics("~/Dropbox/Magister_Estadistica/Diplomando_ds/Notes_DS_2020/image/c1i1.png", dpi=500)
 ```
 
 \break
@@ -158,7 +158,7 @@ El big data es un fenómeno científico tecnológico que gracias a la integraci�
 
 ```{r echo=FALSE, fig.align='center', fig.cap='Proceso de Big Data', warning=FALSE}
 library(knitr)
-include_graphics("~/Dropbox/Magister_Estadística_Diplomado_DS/Diplomado_data_science/Notas_DS_2020/image/c1i2.png", dpi=500)
+include_graphics("~/Dropbox/Magister_Estadistica/Diplomando_ds/Notes_DS_2020/image/c1i2.png", dpi=500)
 ```
 
 
@@ -174,14 +174,14 @@ Sin embargo, no es solo un tema de volumen de información:
 
 ```{r echo=FALSE, fig.align='center', fig.cap='Proceso Batch', warning=FALSE}
 library(knitr)
-include_graphics("~/Dropbox/Magister_Estadística_Diplomado_DS/Diplomado_data_science/Notas_DS_2020/image/c1i3.png", dpi=500)
+include_graphics("~/Dropbox/Magister_Estadistica/Diplomando_ds/Notes_DS_2020/image/c1i3.png", dpi=500)
 ``` 
   
   - Streaming: El procesamiento de datos es inmediato una vez ocurrida la transacción. La base de datos se actualiza una vez ocurrido el evento (proceso repetitivo e inmediato)
 
 ```{r echo=FALSE, fig.align='center', fig.cap='Proceso Streaming', warning=FALSE}
 library(knitr)
-include_graphics("~/Dropbox/Magister_Estadística_Diplomado_DS/Diplomado_data_science/Notas_DS_2020/image/c1i4.png", dpi=500)
+include_graphics("~/Dropbox/Magister_Estadistica/Diplomando_ds/Notes_DS_2020/image/c1i4.png", dpi=500)
 ``` 
 
 **3. Variedad:** tipos de datos, sean estructurados, semiestructurados o no estructurados. El desafío es procesar datos que provienen de distintas fuentes y formatos.
@@ -202,7 +202,7 @@ include_graphics("~/Dropbox/Magister_Estadística_Diplomado_DS/Diplomado_data_s
 
 ```{r echo=FALSE, fig.align='center', fig.cap='Capacidad Analítica', warning=FALSE}
 library(knitr)
-include_graphics("~/Dropbox/Magister_Estadística_Diplomado_DS/Diplomado_data_science/Notas_DS_2020/image/c1i5.png", dpi=500)
+include_graphics("~/Dropbox/Magister_Estadistica/Diplomando_ds/Notes_DS_2020/image/c1i5.png", dpi=500)
 ``` 
 
 Estos pasos se sustentan en la capacidad analítica con los distintos modelos técnicos y estadísticos. Lo predictivo no implica lo prescriptivo necesariamente, en otras palabras, *correlación no implica causalidad*. En este sentido, la ciencia de datos genera valor.
@@ -215,7 +215,7 @@ La ciencia de datos es una disciplina que se encarga de transformar datos en inf
 
 ```{r echo=FALSE, fig.align='center', fig.cap='Ciencia de Datos', warning=FALSE}
 library(knitr)
-include_graphics("~/Dropbox/Magister_Estadística_Diplomado_DS/Diplomado_data_science/Notas_DS_2020/image/c1i6.png", dpi=500)
+include_graphics("~/Dropbox/Magister_Estadistica/Diplomando_ds/Notes_DS_2020/image/c1i6.png", dpi=500)
 ``` 
 
 Elementos fundamentales para el desarrollo de la ciencia de datos:
@@ -250,7 +250,7 @@ Algoritmos de aprendizaje:
 
 \bcenter
 
-![](~/Dropbox/Magister_Estadística_Diplomado_DS/Diplomado_data_science/Notas_DS_2020/image/logo2.png){width=40% height=40%}
+![](~/Dropbox/Magister_Estadistica/Diplomando_ds/Notes_DS_2020/image/logo2.png){width=40% height=40%}
 
 **Documento elaborado con las herramientas de [Rmarkdown](https://rmarkdown.rstudio.com/)**
 
