@@ -6,7 +6,7 @@
 
 El siguiente repositorio tiene un registro de los principales temas abordados en las sesiones del [Diplomado de Ciencia de Datos de la UC](http://datascience.uc.cl/). Los temas se organizan bajo la siguiente estructura:
 
-**Tema 1:** Fundamento de la ciencia de datos
+[Tema 1: Fundamento de la ciencia de datos](https://github.com/JDConejeros/Notes_DS_2020/tree/master/T1_Fundamentos_DS)
 
   - Aspectos principales de la ciencia de datos.
   - Metodologías para proyectos. 
