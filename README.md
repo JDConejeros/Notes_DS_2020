@@ -2,7 +2,7 @@
 
 <br>
 
-# Notas [Diplomado de Ciencia de Datos](http://datascience.uc.cl/)
+# [Diplomado de Ciencia de Datos](http://datascience.uc.cl/)
 
 El siguiente repositorio tiene un registro de los principales temas abordados en las sesiones del [Diplomado de Ciencia de Datos de la UC](http://datascience.uc.cl/). Los temas se organizan bajo la siguiente estructura:
 
